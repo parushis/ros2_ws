@@ -1,0 +1,54 @@
+{
+	"cmake" : 
+	{
+		"generator" : 
+		{
+			"multiConfig" : false,
+			"name" : "Unix Makefiles"
+		},
+		"paths" : 
+		{
+			"cmake" : "/opt/homebrew/Caskroom/miniconda/base/envs/ros2/bin/cmake",
+			"cpack" : "/opt/homebrew/Caskroom/miniconda/base/envs/ros2/bin/cpack",
+			"ctest" : "/opt/homebrew/Caskroom/miniconda/base/envs/ros2/bin/ctest",
+			"root" : "/opt/homebrew/Caskroom/miniconda/base/envs/ros2/share/cmake-4.1"
+		},
+		"version" : 
+		{
+			"isDirty" : false,
+			"major" : 4,
+			"minor" : 1,
+			"patch" : 1,
+			"string" : "4.1.1",
+			"suffix" : ""
+		}
+	},
+	"objects" : 
+	[
+		{
+			"jsonFile" : "codemodel-v2-50fa567a99b442f7c3b6.json",
+			"kind" : "codemodel",
+			"version" : 
+			{
+				"major" : 2,
+				"minor" : 8
+			}
+		}
+	],
+	"reply" : 
+	{
+		"client-colcon-cmake" : 
+		{
+			"codemodel-v2" : 
+			{
+				"jsonFile" : "codemodel-v2-50fa567a99b442f7c3b6.json",
+				"kind" : "codemodel",
+				"version" : 
+				{
+					"major" : 2,
+					"minor" : 8
+				}
+			}
+		}
+	}
+}

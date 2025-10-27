@@ -1,0 +1,24 @@
+[0.024s] Invoking command in '/Users/parushi/Documents/Nimbis/ros2_ws/build/my_bridge': CONDA_PROMPT_MODIFIER=(ros2) SHLVL=2 _=/opt/homebrew/Caskroom/miniconda/base/envs/ros2/bin/env __CF_USER_TEXT_ENCODING=0x1F5:0x0:0x0 /opt/homebrew/Caskroom/miniconda/base/envs/ros2/bin/cmake --build /Users/parushi/Documents/Nimbis/ros2_ws/build/my_bridge -- -j8 -l8
+[0.208s] Invoked command in '/Users/parushi/Documents/Nimbis/ros2_ws/build/my_bridge' returned '0': CONDA_PROMPT_MODIFIER=(ros2) SHLVL=2 _=/opt/homebrew/Caskroom/miniconda/base/envs/ros2/bin/env __CF_USER_TEXT_ENCODING=0x1F5:0x0:0x0 /opt/homebrew/Caskroom/miniconda/base/envs/ros2/bin/cmake --build /Users/parushi/Documents/Nimbis/ros2_ws/build/my_bridge -- -j8 -l8
+[0.227s] Invoking command in '/Users/parushi/Documents/Nimbis/ros2_ws/build/my_bridge': CONDA_PROMPT_MODIFIER=(ros2) SHLVL=2 _=/opt/homebrew/Caskroom/miniconda/base/envs/ros2/bin/env __CF_USER_TEXT_ENCODING=0x1F5:0x0:0x0 /opt/homebrew/Caskroom/miniconda/base/envs/ros2/bin/cmake --install /Users/parushi/Documents/Nimbis/ros2_ws/build/my_bridge
+[0.240s] -- Install configuration: ""
+[0.240s] -- Up-to-date: /Users/parushi/Documents/Nimbis/ros2_ws/install/my_bridge/share/my_bridge/launch
+[0.240s] -- Up-to-date: /Users/parushi/Documents/Nimbis/ros2_ws/install/my_bridge/share/my_bridge/launch/bridge.launch.py
+[0.240s] -- Up-to-date: /Users/parushi/Documents/Nimbis/ros2_ws/install/my_bridge/share/my_bridge/config
+[0.240s] -- Installing: /Users/parushi/Documents/Nimbis/ros2_ws/install/my_bridge/share/my_bridge/config/bridge.yaml
+[0.241s] -- Up-to-date: /Users/parushi/Documents/Nimbis/ros2_ws/install/my_bridge/share/ament_index/resource_index/package_run_dependencies/my_bridge
+[0.241s] -- Up-to-date: /Users/parushi/Documents/Nimbis/ros2_ws/install/my_bridge/share/ament_index/resource_index/parent_prefix_path/my_bridge
+[0.241s] -- Up-to-date: /Users/parushi/Documents/Nimbis/ros2_ws/install/my_bridge/share/my_bridge/environment/ament_prefix_path.sh
+[0.241s] -- Up-to-date: /Users/parushi/Documents/Nimbis/ros2_ws/install/my_bridge/share/my_bridge/environment/ament_prefix_path.dsv
+[0.241s] -- Up-to-date: /Users/parushi/Documents/Nimbis/ros2_ws/install/my_bridge/share/my_bridge/environment/path.sh
+[0.241s] -- Up-to-date: /Users/parushi/Documents/Nimbis/ros2_ws/install/my_bridge/share/my_bridge/environment/path.dsv
+[0.241s] -- Up-to-date: /Users/parushi/Documents/Nimbis/ros2_ws/install/my_bridge/share/my_bridge/local_setup.bash
+[0.241s] -- Up-to-date: /Users/parushi/Documents/Nimbis/ros2_ws/install/my_bridge/share/my_bridge/local_setup.sh
+[0.241s] -- Up-to-date: /Users/parushi/Documents/Nimbis/ros2_ws/install/my_bridge/share/my_bridge/local_setup.zsh
+[0.242s] -- Up-to-date: /Users/parushi/Documents/Nimbis/ros2_ws/install/my_bridge/share/my_bridge/local_setup.dsv
+[0.242s] -- Up-to-date: /Users/parushi/Documents/Nimbis/ros2_ws/install/my_bridge/share/my_bridge/package.dsv
+[0.242s] -- Up-to-date: /Users/parushi/Documents/Nimbis/ros2_ws/install/my_bridge/share/ament_index/resource_index/packages/my_bridge
+[0.242s] -- Up-to-date: /Users/parushi/Documents/Nimbis/ros2_ws/install/my_bridge/share/my_bridge/cmake/my_bridgeConfig.cmake
+[0.242s] -- Up-to-date: /Users/parushi/Documents/Nimbis/ros2_ws/install/my_bridge/share/my_bridge/cmake/my_bridgeConfig-version.cmake
+[0.242s] -- Up-to-date: /Users/parushi/Documents/Nimbis/ros2_ws/install/my_bridge/share/my_bridge/package.xml
+[0.243s] Invoked command in '/Users/parushi/Documents/Nimbis/ros2_ws/build/my_bridge' returned '0': CONDA_PROMPT_MODIFIER=(ros2) SHLVL=2 _=/opt/homebrew/Caskroom/miniconda/base/envs/ros2/bin/env __CF_USER_TEXT_ENCODING=0x1F5:0x0:0x0 /opt/homebrew/Caskroom/miniconda/base/envs/ros2/bin/cmake --install /Users/parushi/Documents/Nimbis/ros2_ws/build/my_bridge

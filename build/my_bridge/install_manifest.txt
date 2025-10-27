@@ -1,0 +1,17 @@
+/Users/parushi/Documents/Nimbis/ros2_ws/install/my_bridge/share/my_bridge/launch/bridge.launch.py
+/Users/parushi/Documents/Nimbis/ros2_ws/install/my_bridge/share/my_bridge/config/bridge.yaml
+/Users/parushi/Documents/Nimbis/ros2_ws/install/my_bridge/share/ament_index/resource_index/package_run_dependencies/my_bridge
+/Users/parushi/Documents/Nimbis/ros2_ws/install/my_bridge/share/ament_index/resource_index/parent_prefix_path/my_bridge
+/Users/parushi/Documents/Nimbis/ros2_ws/install/my_bridge/share/my_bridge/environment/ament_prefix_path.sh
+/Users/parushi/Documents/Nimbis/ros2_ws/install/my_bridge/share/my_bridge/environment/ament_prefix_path.dsv
+/Users/parushi/Documents/Nimbis/ros2_ws/install/my_bridge/share/my_bridge/environment/path.sh
+/Users/parushi/Documents/Nimbis/ros2_ws/install/my_bridge/share/my_bridge/environment/path.dsv
+/Users/parushi/Documents/Nimbis/ros2_ws/install/my_bridge/share/my_bridge/local_setup.bash
+/Users/parushi/Documents/Nimbis/ros2_ws/install/my_bridge/share/my_bridge/local_setup.sh
+/Users/parushi/Documents/Nimbis/ros2_ws/install/my_bridge/share/my_bridge/local_setup.zsh
+/Users/parushi/Documents/Nimbis/ros2_ws/install/my_bridge/share/my_bridge/local_setup.dsv
+/Users/parushi/Documents/Nimbis/ros2_ws/install/my_bridge/share/my_bridge/package.dsv
+/Users/parushi/Documents/Nimbis/ros2_ws/install/my_bridge/share/ament_index/resource_index/packages/my_bridge
+/Users/parushi/Documents/Nimbis/ros2_ws/install/my_bridge/share/my_bridge/cmake/my_bridgeConfig.cmake
+/Users/parushi/Documents/Nimbis/ros2_ws/install/my_bridge/share/my_bridge/cmake/my_bridgeConfig-version.cmake
+/Users/parushi/Documents/Nimbis/ros2_ws/install/my_bridge/share/my_bridge/package.xml

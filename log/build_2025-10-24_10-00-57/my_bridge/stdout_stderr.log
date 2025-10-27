@@ -1,0 +1,46 @@
+CMake Deprecation Warning at CMakeLists.txt:1 (cmake_minimum_required):
+  Compatibility with CMake < 3.10 will be removed from a future version of
+  CMake.
+
+  Update the VERSION argument <min> value.  Or, use the <min>...<max> syntax
+  to tell CMake that the project requires at least <min> but has been updated
+  to work with policies introduced by <max> or earlier.
+
+
+-- The C compiler identification is Clang 19.1.7
+-- The CXX compiler identification is Clang 19.1.7
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /opt/homebrew/Caskroom/miniconda/base/envs/ros2/bin/arm64-apple-darwin20.0.0-clang - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /opt/homebrew/Caskroom/miniconda/base/envs/ros2/bin/arm64-apple-darwin20.0.0-clang++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found ament_cmake: 1.3.12 (/opt/homebrew/Caskroom/miniconda/base/envs/ros2/share/ament_cmake/cmake)
+-- Found Python3: /opt/homebrew/Caskroom/miniconda/base/envs/ros2/bin/python3 (found version "3.11.13") found components: Interpreter
+-- Configuring done (3.7s)
+-- Generating done (0.0s)
+-- Build files have been written to: /Users/parushi/Documents/Nimbis/ros2_ws/build/my_bridge
+-- Install configuration: ""
+-- Installing: /Users/parushi/Documents/Nimbis/ros2_ws/install/my_bridge/share/my_bridge/launch
+-- Installing: /Users/parushi/Documents/Nimbis/ros2_ws/install/my_bridge/share/my_bridge/launch/bridge.launch.py
+-- Installing: /Users/parushi/Documents/Nimbis/ros2_ws/install/my_bridge/share/my_bridge/config
+-- Installing: /Users/parushi/Documents/Nimbis/ros2_ws/install/my_bridge/share/my_bridge/config/bridge.yaml
+-- Installing: /Users/parushi/Documents/Nimbis/ros2_ws/install/my_bridge/share/ament_index/resource_index/package_run_dependencies/my_bridge
+-- Installing: /Users/parushi/Documents/Nimbis/ros2_ws/install/my_bridge/share/ament_index/resource_index/parent_prefix_path/my_bridge
+-- Installing: /Users/parushi/Documents/Nimbis/ros2_ws/install/my_bridge/share/my_bridge/environment/ament_prefix_path.sh
+-- Installing: /Users/parushi/Documents/Nimbis/ros2_ws/install/my_bridge/share/my_bridge/environment/ament_prefix_path.dsv
+-- Installing: /Users/parushi/Documents/Nimbis/ros2_ws/install/my_bridge/share/my_bridge/environment/path.sh
+-- Installing: /Users/parushi/Documents/Nimbis/ros2_ws/install/my_bridge/share/my_bridge/environment/path.dsv
+-- Installing: /Users/parushi/Documents/Nimbis/ros2_ws/install/my_bridge/share/my_bridge/local_setup.bash
+-- Installing: /Users/parushi/Documents/Nimbis/ros2_ws/install/my_bridge/share/my_bridge/local_setup.sh
+-- Installing: /Users/parushi/Documents/Nimbis/ros2_ws/install/my_bridge/share/my_bridge/local_setup.zsh
+-- Installing: /Users/parushi/Documents/Nimbis/ros2_ws/install/my_bridge/share/my_bridge/local_setup.dsv
+-- Installing: /Users/parushi/Documents/Nimbis/ros2_ws/install/my_bridge/share/my_bridge/package.dsv
+-- Installing: /Users/parushi/Documents/Nimbis/ros2_ws/install/my_bridge/share/ament_index/resource_index/packages/my_bridge
+-- Installing: /Users/parushi/Documents/Nimbis/ros2_ws/install/my_bridge/share/my_bridge/cmake/my_bridgeConfig.cmake
+-- Installing: /Users/parushi/Documents/Nimbis/ros2_ws/install/my_bridge/share/my_bridge/cmake/my_bridgeConfig-version.cmake
+-- Installing: /Users/parushi/Documents/Nimbis/ros2_ws/install/my_bridge/share/my_bridge/package.xml

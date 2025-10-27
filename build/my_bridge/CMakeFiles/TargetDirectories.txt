@@ -1,0 +1,9 @@
+/Users/parushi/Documents/Nimbis/ros2_ws/build/my_bridge/CMakeFiles/uninstall.dir
+/Users/parushi/Documents/Nimbis/ros2_ws/build/my_bridge/CMakeFiles/my_bridge_uninstall.dir
+/Users/parushi/Documents/Nimbis/ros2_ws/build/my_bridge/CMakeFiles/test.dir
+/Users/parushi/Documents/Nimbis/ros2_ws/build/my_bridge/CMakeFiles/edit_cache.dir
+/Users/parushi/Documents/Nimbis/ros2_ws/build/my_bridge/CMakeFiles/rebuild_cache.dir
+/Users/parushi/Documents/Nimbis/ros2_ws/build/my_bridge/CMakeFiles/list_install_components.dir
+/Users/parushi/Documents/Nimbis/ros2_ws/build/my_bridge/CMakeFiles/install.dir
+/Users/parushi/Documents/Nimbis/ros2_ws/build/my_bridge/CMakeFiles/install/local.dir
+/Users/parushi/Documents/Nimbis/ros2_ws/build/my_bridge/CMakeFiles/install/strip.dir
